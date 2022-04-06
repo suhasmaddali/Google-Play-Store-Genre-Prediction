@@ -6,7 +6,7 @@
 
 ## Problem Statement
 
-In this machine learning project, we would be predicting the genre of the app released based on a few features such as the __location__, __time__ and __date__ released respectively. Moreover, data visualization was performed to give us a good understanding of some features present in data. Various barplots were generated to get us a good understanding of data respectively. We would be looking forward to understand the genre of various applications.  
+In this machine learning project, we would be predicting the genre of the app released based on a few features such as the __location__, __time__ and __date__ released respectively. Moreover, __data visualization__ was performed to give us a good understanding of some features present in data. Various barplots were generated to get us a good understanding of data respectively. We would be looking forward to understand the __genre__ of various applications.  
 
 ## 👉 Directions to download the repository and run the notebook 
 
