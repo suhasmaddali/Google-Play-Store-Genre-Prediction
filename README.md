@@ -6,7 +6,7 @@
 
 ## Problem Statement
 
-There are huge number of applications released every day on __Google Play Store__. Keeping track of those apps can be difficult, due to the volume of them present and being released by different designers from various parts of the world. With the help of Python and data visualization libraries, therefore, we would be exploring various apps along with their reviews, ratings and price respectively. 
+There are huge number of applications released every day on __Google Play Store__. Keeping track of those apps can be difficult, due to the volume of them present and being released by different designers from various parts of the world. With the help of __Python__ and __data visualization libraries__, therefore, we would be exploring various apps along with their reviews, ratings and price respectively. 
 
 As a result, we would be predicting the genre of the app released based on a few features such as the __location__, __time__ and __date__ released respectively. Moreover, __data visualization__ was performed to give us a good understanding of some features present in data. Various barplots were generated to get us a good understanding of data. We would be looking forward to understand the __genre__ of various applications.  
 
